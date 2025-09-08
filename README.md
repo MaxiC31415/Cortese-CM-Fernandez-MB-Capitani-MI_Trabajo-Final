@@ -19,3 +19,7 @@ Este trabajo fue redactado íntegramente en Overleaf utilizando LaTeX, lo que pe
 ## 🧭 Institución  
 Curso de Posgrado “De la Hipótesis a la Tesis con enfoque de IA”  
 Facultad de Ingeniería Olavarría, UNCPBA
+
+## 🎓 Referente académico
+Este trabajo se desarrolló bajo la orientación metodológica del Dr. Ricardo Palma, docente responsable del curso “De la Hipótesis a la Tesis con enfoque de IA” en la Facultad de Ingeniería, UNCPBA. Su enfoque estratégico y técnico fue clave en la definición del marco conceptual y en la consolidación del trabajo final.
+
