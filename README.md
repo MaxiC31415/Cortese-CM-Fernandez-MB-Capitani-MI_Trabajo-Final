@@ -1,6 +1,13 @@
 # 🧪 Trabajo Final – Curso de Posgrado  
 **De la Hipótesis a la Tesis con enfoque de IA**
 
+## 📌 DOI Zenodo
+Este trabajo ha sido archivado en Zenodo con DOI permanente:  
+[10.5281/zenodo.17079058](https://doi.org/10.5281/zenodo.17079058)
+
+La versión publicada incluye la cita al Dr. Ricardo Palma como referente académico y fue redactada íntegramente en Overleaf con LaTeX.
+
+
 ## 📌 Descripción breve  
 Comparación de eficiencia entre prensado mecánico y extracción con n-hexano en semillas de chía. Se destaca el mayor rendimiento del solvente (32,2 % b.s.) frente al prensado (24,2 % b.s.), y se discuten alternativas más seguras y sostenibles para la obtención de aceite.
 
