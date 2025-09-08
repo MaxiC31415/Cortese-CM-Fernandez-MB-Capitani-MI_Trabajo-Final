@@ -21,5 +21,8 @@ Curso de Posgrado “De la Hipótesis a la Tesis con enfoque de IA”
 Facultad de Ingeniería Olavarría, UNCPBA
 
 ## 🎓 Referente académico
-Este trabajo se desarrolló bajo la orientación metodológica del Dr. Ricardo Palma, docente responsable del curso “De la Hipótesis a la Tesis con enfoque de IA” en la Facultad de Ingeniería, UNCPBA. Su enfoque estratégico y técnico fue clave en la definición del marco conceptual y en la consolidación del trabajo final.
+Este trabajo se desarrolló bajo la orientación metodológica del Dr. Ricardo Palma, docente responsable del curso “De la Hipótesis a la Tesis con enfoque de IA” en la Facultad de Ingeniería, UNCPBA. Su enfoque estratégico y técnico fue clave en la definición del marco conceptual y en la consolidación del trabajo final. 
+
+📖 Referencia destacada: Palma, R.R. & Masera, G.A. (2023). *Ciencia reproducible y post-COVID19: su impacto en la acreditación de ingenierías industriales*. AJEA 30, UTN.
+
 
